@@ -63,3 +63,8 @@ To check Tensorflow is properly installed:
 
 ## Install atari ##
 1. pip install gym[atari]
+
+## Install Box2D]
+sudo apt-get install python-dev
+sudo apt-get install swig
+sudo pip install box2d-py
